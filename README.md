@@ -58,7 +58,10 @@ This project was built with Cursor and is designed to showcase Cursor workflows:
 
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/hackathon-launchpad)
+**Live:** [https://hackathon-advicehub.vercel.app](https://hackathon-advicehub.vercel.app)  
+**Repo:** [https://github.com/mayanksingh09/hackathon-launchpad](https://github.com/mayanksingh09/hackathon-launchpad)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mayanksingh09/hackathon-launchpad)
 
 ```bash
 npm run build
