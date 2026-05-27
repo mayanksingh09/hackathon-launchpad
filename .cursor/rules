@@ -1,0 +1,26 @@
+# Hackathon Launchpad — Cursor Rules
+
+## Scope
+- Build only what is needed for a 2-hour hackathon demo
+- Cut features aggressively; polish the demo path over breadth
+- No auth, no database, no payments unless explicitly required
+
+## Stack
+- Use Next.js App Router, TypeScript, and Tailwind CSS
+- Prefer server components; use client components only when needed
+- Keep API routes thin; validate inputs at the boundary
+- Use shadcn/ui for polished UI components
+
+## Project-specific
+- Dark theme UI with monospace artifact panels
+- POST /api/generate returns structured JSON artifacts
+- Include a demo preset button for reliable live demos
+
+## Code style
+- Match existing patterns in the repo
+- Minimal diffs; no drive-by refactors
+- Self-explanatory code; comments only for non-obvious logic
+
+## Demo readiness
+- Include one hardcoded demo preset that works offline
+- Every feature must be visible in a 90-second demo
